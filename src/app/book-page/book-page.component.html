@@ -1,0 +1,5 @@
+<div *ngIf="(book$ | async) as m">
+  <h2>Movie (Object based)</h2>
+  <pre>{{ m | json }}</pre>
+  <p>{{ m.title }}</p>
+</div>>

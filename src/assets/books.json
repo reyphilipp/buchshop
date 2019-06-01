@@ -1,0 +1,12 @@
+[
+  {
+    "id": "one",
+    "title": "Globi",
+    "genre":"Kinderbücher"
+  },
+  {
+    "id": "two",
+    "title": "Star Trek",
+    "genre":"SciFi"
+  }
+]
